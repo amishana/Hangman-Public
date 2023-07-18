@@ -1,4 +1,4 @@
-# Hangman
+# Hangman-Public
 ### Description:<br />
 This game follows the rules of the traditional game of "Hangman" except it is a one-player version. Once the game is started you will be asked how many letters the word should be. Then, you will be asked how many lives you would like to play with. After that, guess an individual letter each time you are prompted, with the aim of guessing the full word correctly. Once you either correctly guess the word or lose all your lives, the game will end and the computer will ask if you would like to play again. The computer will prompt you with each of these actions. When asked for a number or letter, if you input a different character than expected, the computer will continue asking until the correct type of character is inputted. 
 
