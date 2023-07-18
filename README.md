@@ -15,7 +15,7 @@ Amisha Nambiar and Professor Larissa Munishkina authored the pseudocode for hang
 Professor Larissa Munishkina provided dictionary.txt and dictionary-short.txt.<br />
 
 ### Files in This Repository:<br />
-dictionary.txt contains all the possible words for the computer to choose from.<br />
-dictionary-short.txt contains one word of each possible word length for the computer to choose from.<br />
-hangman.py contains the code for the game using dictionary.txt as the inputted dictionary file.<br />
-hangman_test.py contains the same code as hangman.py except the inputted dictionary file is dictionary-short.txt. This will allow the user to test if the game mechanics are working correctly using a known word.
+1. dictionary.txt contains all the possible words for the computer to choose from.<br />
+2. dictionary-short.txt contains one word of each possible word length for the computer to choose from.<br />
+3. hangman.py contains the code for the game using dictionary.txt as the inputted dictionary file.<br />
+4. hangman_test.py contains the same code as hangman.py except the inputted dictionary file is dictionary-short.txt. This will allow the user to test if the game mechanics are working correctly using a known word.
